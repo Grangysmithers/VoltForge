@@ -6,7 +6,7 @@ from effects import witch_effect, monster_effect
 # --------------------------------------------------
 
 st.set_page_config(
-    page_title="Witch Voice Booth",
+    page_title="HauntWave",
     page_icon="🎃",
     layout="centered",
     initial_sidebar_state="collapsed"
@@ -249,7 +249,7 @@ hr {
 # --------------------------------------------------
 
 st.markdown(
-    '<div class="booth-title">🎃 WITCH VOICE BOOTH</div>',
+    '<div class="booth-title">🎃 HauntWave</div>',
     unsafe_allow_html=True
 )
 
